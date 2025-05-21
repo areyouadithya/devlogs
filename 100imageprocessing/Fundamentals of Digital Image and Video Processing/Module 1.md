@@ -21,5 +21,14 @@ The output of sampling and quantization is called a ==digital signal==.
 ---
 # Image and Video Signals
 
+* Images and Videos can be
+	* 1D: tones, speech, biomedical, remote sensing, etc _s(t), s(n)_
+	* 2D: text, grayscale, color, multispectral, hyperspectral images etc _s(x,y)_
+	* 3D: video, 3D volume, etc _s(x,y,z), s(x,y,t)_
+	* mD: video of a volume, etc *s(x,y,z,t)
 
+* A disparity map gives us depth perception. It is used to map the left image onto the right image in a 3D environment (stereo images).
+
+---
+# Electromagnetic Spectrum
 

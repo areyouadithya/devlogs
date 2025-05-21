@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "56dc5367414cd32b",
@@ -179,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "375bbc280195e8fc",
+  "active": "efb148aef1a57d42",
   "lastOpenFiles": [
-    "000index/Markdown Basics.md",
     "100imageprocessing/Fundamentals of Digital Image and Video Processing/Module 1.md",
+    "000index/Markdown Basics.md",
     "2025-05-21.md",
     "100imageprocessing/Fundamentals of Digital Image and Video Processing",
     "100imageprocessing/Fundamentals of Digital Image Processing - Northwestern/Module 1.md",
