@@ -1,5 +1,6 @@
 {
   "cssTheme": "Obsidian gruvbox",
-  "textFontFamily": "HGGothicE",
-  "baseFontSize": 14
+  "textFontFamily": "Coolvetica",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Coolvetica"
 }
