@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100imageprocessing/Fundamentals of Digital Image Processing - Northwestern/Module 1.md",
+                "file": "100imageprocessing/Fundamentals of Digital Image and Video Processing/Module 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,8 +181,10 @@
   },
   "active": "efb148aef1a57d42",
   "lastOpenFiles": [
-    "Welcome.md",
+    "100imageprocessing/Fundamentals of Digital Image and Video Processing/Module 1.md",
+    "100imageprocessing/Fundamentals of Digital Image and Video Processing",
     "100imageprocessing/Fundamentals of Digital Image Processing - Northwestern/Module 1.md",
+    "Welcome.md",
     "100imageprocessing/Fundamentals of Digital Image Processing - Northwestern",
     "200cpp",
     "100imageprocessing",
